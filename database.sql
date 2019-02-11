@@ -1,0 +1,3 @@
+-- 1. SELECT * FROM "accounts" WHERE "city" = 'chicago';
+--2. SELECT * FROM "accounts" WHERE "username" ILIKE '%a%';
+--3. 
